@@ -4,8 +4,11 @@ Client Secret 0a1c5d1b5f3242ab890d0fcda33aa834
 
 generar token
 
-url:   https://accounts.spotify.com/api/token
+url services:   https://accounts.spotify.com/api/token
+url web :  https://developer.spotify.com/console/get-search-item/
 
 grant_type      client_credentials
 client_id		0109439654a34ad1a62b75124f497e3e
 client_secret	0a1c5d1b5f3242ab890d0fcda33aa834
+
+
